@@ -1,0 +1,30 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS & Linux
+.DS_Store
+*.swp
+
+# Generated
+pubspec.lock
+
+# Output
+*.log
+*.tmp
+
+# Android/iOS/Web
+android/
+ios/
+web/
+
+# Other
+example/.dart_tool/
+example/build/

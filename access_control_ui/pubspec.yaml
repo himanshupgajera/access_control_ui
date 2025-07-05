@@ -1,0 +1,25 @@
+name: access_control_ui
+
+description: >
+  A Flutter package to easily manage role-based, permission-based, and plan-based UI visibility and access control.
+
+version: 0.0.1
+
+homepage: https://github.com/himanshupgajera/access_control_ui
+repository: https://github.com/himanshupgajera/access_control_ui
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  # No assets or fonts defined yet.
